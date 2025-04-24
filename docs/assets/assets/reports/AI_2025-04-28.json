@@ -1,0 +1,27 @@
+{
+    "keyword": "AI",
+    "snapshot": "2025-04-28",
+    "frequency_stats": [
+      { "keyword": "AI", "site_count": 48, "site_coverage": 15, "bing_results": "1,420,000" },
+      { "keyword": "탄소중립", "site_count": 31, "site_coverage": 11, "bing_results": "910,000" },
+      { "keyword": "반도체", "site_count": 29, "site_coverage": 13, "bing_results": "1,200,000" }
+    ],
+    "cooccurrence": [
+      { "source": "AI", "target": "챗봇", "count": 17 },
+      { "source": "AI", "target": "디지털전환", "count": 12 },
+      { "source": "AI", "target": "윤리", "count": 7 }
+    ],
+    "associations": [
+      { "term": "챗GPT", "count": 11 },
+      { "term": "자동화", "count": 9 },
+      { "term": "생성형", "count": 8 },
+      { "term": "윤리", "count": 6 }
+    ],
+    "top_keywords": [
+      { "rank": 1, "keyword": "AI", "site_coverage": 15, "site_count": 48 },
+      { "rank": 2, "keyword": "탄소중립", "site_coverage": 11, "site_count": 31 },
+      { "rank": 3, "keyword": "반도체", "site_coverage": 13, "site_count": 29 },
+      { "rank": 4, "keyword": "디지털전환", "site_coverage": 9, "site_count": 22 }
+    ]
+  }
+  
