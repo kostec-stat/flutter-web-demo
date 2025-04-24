@@ -1,0 +1,76 @@
+{
+    "keyword": "과학기술 정책",
+    "snapshot": "2025-04-28",
+    "frequency_stats": [
+      { "keyword": "과학기술 혁신 정책", "site_count": 17, "site_coverage": 9, "bing_results": "352,727" },
+      { "keyword": "산학연 협력", "site_count": 25, "site_coverage": 3, "bing_results": "638,486" },
+      { "keyword": "국제 인재 서비스", "site_count": 19, "site_coverage": 13, "bing_results": "961,007" },
+      { "keyword": "인공지능", "site_count": 21, "site_coverage": 3, "bing_results": "120,255" },
+      { "keyword": "디지털 경제 정책", "site_count": 25, "site_coverage": 17, "bing_results": "264,193" }
+    ],
+    "cooccurrence": [
+      { "source": "과학기술 혁신 정책", "target": "산학연 협력", "count": 7 },
+      { "source": "과학기술 혁신 정책", "target": "국제 인재 서비스", "count": 13 },
+      { "source": "과학기술 혁신 정책", "target": "인공지능", "count": 13 },
+      { "source": "과학기술 혁신 정책", "target": "디지털 경제 정책", "count": 28 },
+      { "source": "산학연 협력", "target": "국제 인재 서비스", "count": 7 },
+      { "source": "산학연 협력", "target": "인공지능", "count": 22 },
+      { "source": "산학연 협력", "target": "디지털 경제 정책", "count": 5 },
+      { "source": "국제 인재 서비스", "target": "인공지능", "count": 23 },
+      { "source": "국제 인재 서비스", "target": "디지털 경제 정책", "count": 25 },
+      { "source": "인공지능", "target": "디지털 경제 정책", "count": 20 }
+    ],
+    "associations": [
+      { "term": "수소 저장기술", "count": 16 },
+      { "term": "스마트시티", "count": 13 },
+      { "term": "뇌파 외골격", "count": 20 },
+      { "term": "탄소섬유 복합소재", "count": 18 }
+    ],
+    "top_keywords": [
+      {
+        "rank": 1,
+        "keyword": "과학기술 혁신 정책",
+        "site_coverage": 9,
+        "site_count": 17,
+        "sites": [
+            "https://www.brookings.edu/collection/global-china-technology/",
+            "https://www.miit.gov.cn/",
+            "https://policycn.com/"
+        ]
+      },
+      {
+        "rank": 2,
+        "keyword": "산학연 협력",
+        "site_coverage": 3,
+        "site_count": 25,
+        "sites": [
+            "https://www.ndrc.gov.cn/",
+            "https://www.brookings.edu/collection/global-china-technology/",
+            "https://www.cae.cn/"
+        ]
+      },
+      {
+        "rank": 3,
+        "keyword": "국제 인재 서비스",
+        "site_coverage": 13,
+        "site_count": 19,
+        "sites": [
+            "https://www.cas.cn/",
+            "https://cset.georgetown.edu/",
+            "http://www.nsfc.gov.cn/"
+        ]
+      },
+      {
+        "rank": 4,
+        "keyword": "인공지능",
+        "site_coverage": 3,
+        "site_count": 21,
+        "sites": [
+            "https://www.brookings.edu/collection/global-china-technology/",
+            "http://www.most.gov.cn/index.html",
+            "http://www.nsfc.gov.cn/"
+        ]
+      }
+    ]
+}
+      
